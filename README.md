@@ -4,6 +4,8 @@ Dolphin配置管理组的公共核心资源库。
 Core Public Database by Dolphin-Team.
 
 ## 管理组成员（按名称字母排序）
+A Little Soft Cat(Dev)
+
 anehod(Owner)
 
 笨比糯米ovo(Staff)
