@@ -4,21 +4,21 @@ Dolphin配置管理组的公共核心资源库。
 Core Public Database by Dolphin-Team.
 
 ## 管理组成员（按名称字母排序）
-anehod(Owner)（暂不接管配置工作）
+anehod(Owner)
 
-笨比糯米ovo(Staff)（宣传、风控）
+笨比糯米ovo(Staff)
 
-bili(Dev)（开发）
+bili(Dev)
 
-芥末(Staff)（宣传）
+芥末(Staff)
 
-MatrixUser(Dev)（接管部分配置工作）
+MatrixUser(Dev)
 
-MouCha(Dev)（接管部分配置工作）
+MouCha(Dev)
 
-Packer(Dev)（接管部分配置工作）
+Packer(Dev)
 
-Veibae(Owner)（接管全部配置工作）
+Veibae(Owner)
 
 ## 是你吗？
 我们需要招聘三位`宣传员`，首先，你需要有慈善家的精神，有聪慧的头脑，当然这不是重点，你需要有好的拍摄技术，会剪辑，有意请联系QQ368868467了解更多。
