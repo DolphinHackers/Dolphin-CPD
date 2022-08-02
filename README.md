@@ -45,7 +45,7 @@ Tenacity Client
 
 ***ZQAT.top***
 
-Matrix`2.4.0` + AAC`5.2.0` + Vulcan
+全服-Matrix`2.4.0` + AAC`5.2.0` + Vulcan
 
 ---
 
@@ -53,7 +53,15 @@ Matrix`2.4.0` + AAC`5.2.0` + Vulcan
 
 ***mcyc.win***
 
-AAC`4` + Vulcan
+天坑乱斗-AAC`4` + Vulcan
+
+---
+
+### Herobrine
+
+***herobrine.org***
+
+全服-Intave + Vulcan
 
 ---
 
@@ -61,7 +69,7 @@ AAC`4` + Vulcan
 
 ***jartex.fun***
 
-Matrix
+全服-Matrix
 
 ---
 
@@ -69,15 +77,15 @@ Matrix
 
 ***pika.host***
 
-Matrix
+全服-Matrix
 
 ---
 
-### RoCraft
+### RoCraft（停运，我们为此感到难过）
 
 ***rocraft.games***
 
-Verus + Vulcan
+全服-Verus + Vulcan
 
 ## 反作弊大全（按反作弊名称字母排序）
 AAC
